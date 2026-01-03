@@ -1,0 +1,11 @@
+title: Felipe Calado
+description: Desenvolvedor Python, Filósofo e Poeta.
+theme: minima # Um tema simples e elegante que já vem com menu
+remote_theme: jekyll/minima
+
+# Configurações do menu (opcional, o tema minima gera automático para cada página .md)
+header_pages:
+  - index.md
+  - portfolio.md
+  - filosofia.md
+  - poemas.md
