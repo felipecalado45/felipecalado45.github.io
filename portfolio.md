@@ -4,9 +4,7 @@ title: Portfólio
 permalink: /portfolio/
 ---
 
-# 🚀 Meu Portfólio
-
-# 👋 Olá! Eu sou Felipe Calado
+# 👋 Portfólio Dev - Felipe Calado
 
 <div align="center">
   
@@ -87,9 +85,9 @@ Projeto de análise de dados ou machine learning, destacando insights obtidos e 
 
 <div align="center">
   
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecalado45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+[Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecalado45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalado45&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalado45&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipecalado45&theme=radical&hide_border=true)
 
@@ -141,9 +139,8 @@ Projeto de análise de dados ou machine learning, destacando insights obtidos e 
 
 <div align="center">
   
-### 💡 "A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
+### 💡 "É preciso ter o Caos dentro de si para dar a luz à uma estrela dançante"
 
-![Visitor Count](https://profile-counter.glitch.me/felipecalado45/count.svg)
 
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos meus projetos!
 
